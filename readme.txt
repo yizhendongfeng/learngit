@@ -6,3 +6,4 @@ add branch dev
 creating a new branch is quick and simple
 add merge
 in deteched head 1
+in deteched head 2
