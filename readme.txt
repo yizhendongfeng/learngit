@@ -5,3 +5,4 @@ git tracks changes of files
 add branch dev
 creating a new branch is quick and simple
 add merge
+in deteched head 1
