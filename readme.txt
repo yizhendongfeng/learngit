@@ -4,4 +4,7 @@ git has a mutable index called stage
 git tracks changes of files
 add branch dev
 creating a new branch is quick and simple
-add merge
+add 1
+add 2
+add 3
+in deteched head
