@@ -7,3 +7,5 @@ creating a new branch is quick and simple
 add 1
 add 2
 add 3
+in deteched head 1
+in deteched head 2
